@@ -1,3 +1,7 @@
+# Author: Scott Grivner
+# Website: scottgrivner.dev
+# Abstract: Convert pdf files to audio files (text to voice)
+    
 # Import Modules
 import os, pyttsx3, PyPDF2
 
