@@ -1,5 +1,5 @@
 # Author: Scott Grivner
-# Website: scottgrivner.dev
+# Website: linktr.ee/scottgriv
 # Abstract: Convert pdf files to audio files (text to voice)
     
 # Import Modules
